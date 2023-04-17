@@ -27,9 +27,8 @@ Para executar o app, siga estas etapas:
 É importante lembrar que o PHP precisa estar instalado em seu servidor web para que o servidor possa executar os arquivos PHP corretamente. Se você estiver usando o servidor Apache, é possível instalar o PHP como um módulo do Apache, ou usar um pacote pré-configurado como o XAMPP ou WAMP que já inclui o Apache, PHP, MySQL e outras ferramentas necessárias para executar um site PHP.
 
 ## Tecnologias utilizadas
-- HTML
-- CSS
 - PHP
+- CSS
 
 ## Contribuindo com o desenvolvimento do site
 
